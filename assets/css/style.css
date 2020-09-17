@@ -1,0 +1,104 @@
+:root {font-size: 10px;}
+
+
+
+
+
+nav {background: #333;
+height: 1100px;
+font-size: 50px;
+
+text-decoration: 10px solid white;
+position: relative;
+
+}
+div {background: linear-gradient(to right,  #3DC8D5, #8507E1 70%);
+    text-align: center;
+    height: 400px;
+    width: 600px;
+    font-size: 40px;
+    margin-left: 600px;
+    margin-top: 240px;
+    
+
+}
+nav h1{font-size: 30px;
+color: rgba(252, 252, 252, 0.63);
+margin-left: 10px;
+margin-top: 10px;}
+
+
+div:hover {background: linear-gradient(to left,  #8507E1 ,  #3DC8D5 70%)}
+
+
+
+div p{font-family: 'Maven Pro', sans-serif;
+    font-size: 100px;
+    color: white;
+
+}
+nav h2{font-size: 25px;
+    font-family: 'Maven Pro', sans-serif;
+    color: white;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+
+
+
+}
+ul {font-family: 'Gilda Display', serif;
+    font-size: 40px;
+    color: rgba(245, 248, 248, 0.418);
+    list-style-type: none;
+    text-align: right;
+    margin-right: 20px;
+    margin-bottom: 5px;
+
+}
+li:hover {color: rgba(96, 162, 167, 0.253)
+    ;}
+
+section {background: url("../img/5c898cd67456ffcba141a5ff_PROJECTS.svg")center/cover no-repeat ;
+height: 200px;
+font-size: 20px;
+
+}
+section h1{font-size: 3em;
+    margin-left: 2.5em;
+    margin-top: 3em;
+
+
+}
+section h2 {font-size: 0.8em;
+    margin-left: 9em;
+    font-family: 'Rajdhani', sans-serif;
+    margin-top: 2em;
+    margin-bottom: 15em;
+
+
+}
+article img {height: 60em;
+margin-top: 20em;
+margin-left: 15em;
+border-radius: 8%;}
+
+article p {font-size: 10em;
+    margin-left:2em ;
+    margin-bottom: 0;
+    
+
+
+
+
+
+}
+article h1 {font-size: 3em;
+    font-family: 'Gilda Display', serif;
+    margin-left: 7em;
+    margin-top:1em ;
+
+
+
+
+
+}
